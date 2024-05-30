@@ -1,2 +1,2 @@
 # STEGANOGRAPHY
-Steganography - The Art of Hiding Data
+# Steganography - The Art of Hiding Data
