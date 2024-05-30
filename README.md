@@ -8,5 +8,14 @@ The fundamental principle of steganography lies in exploiting the redundancy or 
 invisible characters.Steganographic techniques vary in complexity, ranging from simple methods like whitespace manipulation in text documents to advanced algorithms leveraging the least significant bits of image pixels or the frequency components of audio signals. The effectiveness of a steganographic method often relies on its ability to maintain the integrity and perceptual fidelity of the carrier medium while concealing the embedded information.
 
 # Purpose 
-This steganography application is designed to offer users a straightforward and visually appealing tool for concealing and revealing messages within image files. Leveraging the art of steganography, it enables seamless embedding and extraction of messages within digital images, ensuring secure communication. The project 
-prioritizes user-friendliness, aiming to provide individuals interested in secure communication methods with an accessible platform for hiding messages within images. Overall, the purpose of this steganography application extends beyond mere functionality; it embodies a commitment to fostering privacy, security, and user empowerment in the digital age. By enabling individuals to communicate securely and discreetly through hidden messages within digital images, the application contributes to the advancement of secure communication practices in an increasingly interconnected world.Image Processing and Steganography:The application focuses on a specific set of commonly used image formats, such as JPEG, PNG, and BMP. It integrates a chosen steganographic technique, potentially Least Significant Bit (LSB) embedding, to modify the least significant bits of pixel data and conceal message information. An image capacity analysis mechanism ensures that the message size doesn't exceed the image's capacity, preventing visual distortion of the carrier image. While userfriendliness is paramount, basic password protection can be implemented for embedded messages to enhance security.
+1. **Purpose**: The steganography application offers a user-friendly platform for concealing and revealing messages within digital images, prioritizing accessibility and security in communication.
+
+2. **Steganographic Technique**: Leveraging techniques like Least Significant Bit (LSB) embedding, it modifies the least significant bits of pixel data in image files (JPEG, PNG, BMP) to conceal message information effectively.
+
+3. **Image Capacity Analysis**: The application includes a capacity analysis mechanism to ensure that the size of the hidden message does not exceed the image's capacity, preventing visual distortion of the carrier image.
+
+4. **User-Friendliness**: With a straightforward interface, the application aims to be easy to use for individuals interested in secure communication methods, requiring minimal technical expertise.
+
+5. **Security Features**: Basic password protection can be implemented for embedded messages, enhancing the security of the communication process and safeguarding sensitive information.
+
+6. **Commitment to Privacy and Security**: By enabling discreet communication through hidden messages within images, the application contributes to advancing secure communication practices in today's interconnected digital landscape.
