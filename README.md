@@ -21,7 +21,6 @@ invisible characters.Steganographic techniques vary in complexity, ranging from 
 5. **Security Features**: Basic password protection can be implemented for embedded messages, enhancing the security of the communication process and safeguarding sensitive information.
 
 6. **Commitment to Privacy and Security**: By enabling discreet communication through hidden messages within images, the application contributes to advancing secure communication practices in today's interconnected digital landscape.
-![Screenshot 2024-05-30 145223](https://github.com/Harsha7999/STEGANOGRAPHY/assets/138028961/22e8c874-5943-4c22-a814-213206f3e279)
 
 7.**Eample Test Cases:** Embed a secret message within an image, then extract it to verify integrity and undetectability of the concealed data.
 ![Screenshot 2024-05-30 145403](https://github.com/Harsha7999/STEGANOGRAPHY/assets/138028961/3e8c9853-c36d-45d4-a4c9-38796a65b237)
