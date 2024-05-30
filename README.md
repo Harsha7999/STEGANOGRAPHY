@@ -1,5 +1,8 @@
-# STEGANOGRAPHY - The Art of Hiding Data
+# Steganography – The Art of Hidden Communication
+![images](https://github.com/Harsha7999/STEGANOGRAPHY/assets/138028961/cbc22af7-0371-4b4f-b293-27675ff1134f)
 
 Steganography is a bit like hiding a tiny message in something normal. It's like writing a secret note in a book, but the writing looks normal, so nobody suspects there's a hidden message. In the digital world, it's like putting secret stuff in pictures or music without changing how they look or sound. People do this to keep information private or share things without others knowing. It's like having a secret code, but instead of letters, it's hidden in pictures or sounds. Figuring out these hidden messages is important for keeping digital things safe.
-![image](https://github.com/Harsha7999/STEGANOGRAPHY/assets/138028961/e9e95932-8aeb-4c6b-a6b2-24f3b7504629)
+![image](https://github.com/Harsha7999/STEGANOGRAPHY/assets/138028961/7c053fae-8e5c-44a1-aa47-cb0df3486603)
 
+# INTRODUCTION
+In today's digitally interconnected world, preserving the confidentiality of sensitive information has become increasingly challenging. Traditional encryption methods offer a layer of security, yet they often fall short in addressing covert communication, where the presence of encrypted data may still raise suspicion. This dilemma underscores the necessity for steganography, an ancient technique that conceals information within innocuous carriers. In response to this need, Steggo emerges as a modern solution, offering a user-friendly steganography application designed to facilitate secure data concealment and transmission. By embedding sensitive information within various digital media formats, Steggo ensures covert communication while upholding data integrity and confidentiality. This paper explores the development and implementation of Steggo, addressing the growing demand for effective privacy-preserving communication solutions in the digital age.
