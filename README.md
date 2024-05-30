@@ -38,7 +38,7 @@ The application supports common image formats (PNG, JPG), ensuring versatility a
 </br>4.**Potential for Future Extensions:**
 The project is designed as a foundation for potential future extensions, such as supporting different steganography algorithms or incorporating additional security features.</br>
 
-The end users of the steganography application are individuals or professionals who have a need or interest in secure communication through hidden messages within digital images. 
+**The end users of the steganography application are individuals or professionals who have a need or interest in secure communication through hidden messages within digital images.** 
 
 1.**Protect Sensitive Information:**
 Individuals or organizations that need to communicate sensitive information and want an additional layer of security through steganography.
