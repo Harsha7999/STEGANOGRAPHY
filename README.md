@@ -6,7 +6,7 @@ Steganography is a bit like hiding a tiny message in something normal. It's like
 # Introduction 
 The fundamental principle of steganography lies in exploiting the redundancy or imperceptible alterations within a carrier medium to embed secret data. This carrier medium can be an image with subtle modifications in pixel values, an audio file with imperceptible changes in amplitude, or even a text document with strategically placed 
 invisible characters.Steganographic techniques vary in complexity, ranging from simple methods like whitespace manipulation in text documents to advanced algorithms leveraging the least significant bits of image pixels or the frequency components of audio signals. The effectiveness of a steganographic method often relies on its ability to maintain the integrity and perceptual fidelity of the carrier medium while concealing the embedded information.</br> 
-![image](https://github.com/Harsha7999/STEGANOGRAPHY/assets/138028961/f8427a84-d5c3-42cb-9908-bed1c198f374)
+</br>![image](https://github.com/Harsha7999/STEGANOGRAPHY/assets/138028961/f8427a84-d5c3-42cb-9908-bed1c198f374)
 
 
 # Purpose 
@@ -23,7 +23,8 @@ invisible characters.Steganographic techniques vary in complexity, ranging from 
 6. **Commitment to Privacy and Security**: By enabling discreet communication through hidden messages within images, the application contributes to advancing secure communication practices in today's interconnected digital landscape.
 
 7.**Eample Test Cases:** Embed a secret message within an image, then extract it to verify integrity and undetectability of the concealed data.
-![Screenshot 2024-05-30 145403](https://github.com/Harsha7999/STEGANOGRAPHY/assets/138028961/3e8c9853-c36d-45d4-a4c9-38796a65b237)
+
+</br>![Screenshot 2024-05-30 145403](https://github.com/Harsha7999/STEGANOGRAPHY/assets/138028961/3e8c9853-c36d-45d4-a4c9-38796a65b237)
 
 # UNIQUE FEATURES
 This application stands out in the following ways, offering unique features that distinguish it from existing solutions:
