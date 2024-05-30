@@ -30,13 +30,13 @@ invisible characters.Steganographic techniques vary in complexity, ranging from 
 This application stands out in the following ways, offering unique features that distinguish it from existing solutions:
 
 1.**User-Friendly Interface:**
-The application prioritizes a user-friendly experience, ensuring that individuals with varying technical backgrounds can easily navigate and use the tool. This emphasis on simplicity sets it apart from more complex or less intuitive steganography tools.
+The application prioritizes a user-friendly experience, ensuring that individuals with varying technical backgrounds can easily navigate and use the tool. This emphasis on simplicity sets it apart from more complex or less intuitive steganography tools.</br>
 2.**Visual Appeal and Aesthetics:**
-Incorporation of icons, logos, and a visually appealing design sets the application apart in terms of aesthetics.
+Incorporation of icons, logos, and a visually appealing design sets the application apart in terms of aesthetics.</br>
 3.**Versatility in Image Formats:**
-The application supports common image formats (PNG, JPG), ensuring versatility and compatibility with a wide range of digital images. This versatility makes it more accessible to users working with different types of image files.
+The application supports common image formats (PNG, JPG), ensuring versatility and compatibility with a wide range of digital images. This versatility makes it more accessible to users working with different types of image files.</br>
 4.**Potential for Future Extensions:**
-The project is designed as a foundation for potential future extensions, such as supporting different steganography algorithms or incorporating additional security features.
+The project is designed as a foundation for potential future extensions, such as supporting different steganography algorithms or incorporating additional security features.</br>
 
 The end users of the steganography application are individuals or professionals who have a need or interest in secure communication through hidden messages within digital images. 
 
