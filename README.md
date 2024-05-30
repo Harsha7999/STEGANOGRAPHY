@@ -54,7 +54,7 @@ Everyday users who are curious about secure communication and want a user-friend
  
  # CONCLUSION :
 Steggo is a significant advancement in secure data concealment and transmission, combining steganography and encryption to offer covert communication with ensured data integrity and confidentiality. While it has potential limitations like detection risks and resource intensity, its benefits—covert communication, user-friendly interface, and cross-platform compatibility—make it valuable for protecting sensitive information.
-</br> As cybersecurity threats evolve, innovative solutions like Steggo are crucial. Steggo provides a reliable method for secure data concealment, contributing to efforts to safeguard digital privacy. Future research can focus on enhancing its capabilities and addressing limitations to maintain its effectiveness in data security.
+</br> As cybersecurity threats evolve, innovative solutions like Steggo are crucial. Steggo provides a reliable method for secure data concealment, contributing to efforts to safeguard digital privacy.Future research can focus on enhancing its capabilities and addressing limitations to maintain its effectiveness in data security.
 </br> In summary, Steggo exemplifies modern cybersecurity innovation, enabling secure and confident communication in a changing digital landscape.e
 
 
