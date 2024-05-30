@@ -22,7 +22,7 @@ invisible characters.Steganographic techniques vary in complexity, ranging from 
 
 6. **Commitment to Privacy and Security**: By enabling discreet communication through hidden messages within images, the application contributes to advancing secure communication practices in today's interconnected digital landscape.
 
-7.**Eample Test Cases:** Embed a secret message within an image, then extract it to verify integrity and undetectability of the concealed data.
+7. **Eample Test Cases:** Embed a secret message within an image, then extract it to verify integrity and undetectability of the concealed data.
 
 </br>![Screenshot 2024-05-30 145403](https://github.com/Harsha7999/STEGANOGRAPHY/assets/138028961/3e8c9853-c36d-45d4-a4c9-38796a65b237)
 
